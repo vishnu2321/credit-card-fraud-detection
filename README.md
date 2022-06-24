@@ -46,3 +46,6 @@ The accuracy is **0.8928114393812941**. \
 The confusion matrix is calculated for True Positive Rate(TPR) and True Negative Rate(TNR).
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Time taken by pandas --- 9.67mins
+Time taken by Pyspark APIs --- 3.056mins
